@@ -1,0 +1,66 @@
+/*Normal*/
+html, body {
+	height: 75%;
+}
+
+body {
+	background-image: url("../../assets/images/multi048.gif");
+	text-align: center;
+	font-size: 20px;
+	color: #FFD1A1;
+}
+
+header {
+    background-color: #3C9DD0;
+    width: 85%;
+    color: #9A001E;
+    font-family: 'Righteous', cursive;
+    margin-left: 100px;
+}
+
+/* ID style*/
+#countdown {
+	padding-top: 20px;
+}
+
+#showmessage {
+	font-family: 'Righteous', cursive;
+}
+
+#correctmessage {
+	font-family: 'Amaranth', sans-serif;
+	margin-top: 10px;
+}
+
+#begingame {
+    padding: 20px;
+    margin-top: 125px;
+    background-color: #C437D3;
+    width: 15%;
+    font-size: 24px;
+    font-weight: bold;
+    color: #ECFC71;
+}
+
+/* class style*/
+.wrapper {    
+	background-color: #E467B3;
+    width: 960px;
+    height: 95%;
+    margin: 25px auto;
+    text-align: center;
+}
+
+.choices:hover {
+	background-color: #B7BADD;
+	padding: 10px;
+}
+
+footer {
+    background: #C6EC95;
+    clear: both;
+    text-align: center;
+    font-size: 25px;
+    color: #264E74;
+    margin-top: 15px;
+}
