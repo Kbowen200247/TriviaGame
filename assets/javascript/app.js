@@ -78,7 +78,7 @@ $(document).ready(function(){
 			for(var j = 0; j < 4; j++){
 				var select = $("<div>");
 				select.text(trivia[questionnumber].lists[j]);
-				// select.attr({"data-index" : j});
+				select.attr({"data-index" : j});
 				select.addClass("choices");
 				$(".answer").append(select);
 			}
