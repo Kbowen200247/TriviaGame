@@ -56,11 +56,15 @@ header {
 	padding: 10px;
 }
 
-footer {
+.footer {
+    right: 0;
+    left: 0;
+    bottom: 0;
     background: #C6EC95;
-    clear: both;
     text-align: center;
     font-size: 25px;
     color: #264E74;
-    margin-top: 15px;
+    padding: 1rem;
+    position: absolute;
 }
+
