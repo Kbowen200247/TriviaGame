@@ -18,4 +18,4 @@ In this assignment, You'll create a Trivia game using JavaScript for the logic a
 
 * On the final screen, show the number of correct answers, incorrect answers, and an option to restart the game (without reloading the page).
 
-<img width="800" alt="Trivia Game" src="https://kbowen200247.github.io/TriviaGame/images/trivial.png">
+<img width="800" alt="Trivia Game" src="https://kbowen200247.github.io/TriviaGame/assets/images/trivial.png">
